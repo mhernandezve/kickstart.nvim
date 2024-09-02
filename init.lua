@@ -77,6 +77,7 @@ require('lazy').setup({
   require 'plugins.neo-tree',
   require 'plugins.copilot-chat',
   require 'plugins.lsp-zero',
+  require 'plugins.startup',
 
   -- NOTE: Next Step on Your Neovim Journey: Add/Configure additional "plugins" for kickstart
   --       These are some example plugins that I've included in the kickstart repository.
